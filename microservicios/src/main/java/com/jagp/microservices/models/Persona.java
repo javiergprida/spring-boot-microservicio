@@ -12,7 +12,7 @@ import org.hibernate.annotations.Where;
 @Entity(name = "Persona")
 @Table(name = "\"Persona\"", schema = "public")
 @Inheritance(strategy = InheritanceType.JOINED)
-@Where(clause="estado = true")
+@Where(clause="state = true")
 public class Persona {
 
 	@Id
