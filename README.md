@@ -1,2 +1,2 @@
 # spring-boot-microservicio
-microservicio con JPA, Hibernate, PostgreSQL, open api  c swgger
+microservicio con JPA, Hibernate, PostgreSQL, open api (swagger)
